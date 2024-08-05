@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MockDatabase", "MockDatabase\MockDatabase.csproj", "{B4494D4C-264B-463D-9292-BA56004823CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MockDatabaseTest", "MockDatabaseTest\MockDatabaseTest.csproj", "{78EE2C56-4B1E-4462-99A1-F64664B79951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4494D4C-264B-463D-9292-BA56004823CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4494D4C-264B-463D-9292-BA56004823CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4494D4C-264B-463D-9292-BA56004823CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4494D4C-264B-463D-9292-BA56004823CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EE2C56-4B1E-4462-99A1-F64664B79951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EE2C56-4B1E-4462-99A1-F64664B79951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EE2C56-4B1E-4462-99A1-F64664B79951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EE2C56-4B1E-4462-99A1-F64664B79951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95FD6DA-B18F-48BF-916E-BDD60E7B6223}
+	EndGlobalSection
+EndGlobal
